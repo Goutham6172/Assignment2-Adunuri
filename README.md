@@ -23,3 +23,8 @@ Double\-ka\-meetha is a famous Indian sweet, most commonly served as a dessert i
 6. It is out responsibility to make sure that the form submitted here reaches the appropriate page on the server.
 7. Thus received Sign\-in details must be stored into their respective tables in the database.
 
+##### Required Items
+* IDE
+    * VS Code, Notepad\+\+ etc.
+* Good Server to receive, process and send information.
+* Database of preferred choice
