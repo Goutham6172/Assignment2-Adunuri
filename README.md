@@ -40,3 +40,6 @@ Here I am mentioning few places to be visited in India.
 | Mumbai    |   48   |  5000  |
 | Gujarat   |   48   |  3000  |
 
+> "It is not the answer that enlightens, but the question" - Eugène Ionesco
+
+> "The fact that life has no meaning is a reason to live – moreover, the only one" - Emil Cioran
