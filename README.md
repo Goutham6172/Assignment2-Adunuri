@@ -30,3 +30,13 @@ Double\-ka\-meetha is a famous Indian sweet, most commonly served as a dessert i
 * Database of preferred choice
 
 [About Me](AboutMe.md)
+
+Here I am mentioning few places to be visited in India.
+
+| Location  | Hours  | Money  |
+|---        |---     |---     |
+| Hyderabad |   48   |  5000  |
+| Warangal  |   12   |  1000  |
+| Mumbai    |   48   |  5000  |
+| Gujarat   |   48   |  3000  |
+
