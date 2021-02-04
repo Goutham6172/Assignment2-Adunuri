@@ -40,6 +40,25 @@ Here I am mentioning few places to be visited in India.
 | Mumbai    |   48   |  5000  |
 | Gujarat   |   48   |  3000  |
 
+---
+
 > "It is not the answer that enlightens, but the question" - Eugène Ionesco
 
 > "The fact that life has no meaning is a reason to live – moreover, the only one" - Emil Cioran
+
+---
+
+## Code Fencing
+
+> "GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers."
+
+<https://en.wikipedia.org/wiki/GameMaker#GameMaker_Language>
+
+```
+# This program prints Hello, world!
+
+print('Hello, world!')
+
+```
+
+<https://en.wikipedia.org/wiki/Python_(programming_language)>
